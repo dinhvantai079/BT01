@@ -12,3 +12,4 @@ D:\Study\6. Studying\ThuatToan\Doan\BT01\BT01\obj\Debug\netcoreapp3.1\BT01.cspro
 D:\Study\6. Studying\ThuatToan\Doan\BT01\BT01\obj\Debug\netcoreapp3.1\BT01.dll
 D:\Study\6. Studying\ThuatToan\Doan\BT01\BT01\obj\Debug\netcoreapp3.1\BT01.pdb
 D:\Study\6. Studying\ThuatToan\Doan\BT01\BT01\obj\Debug\netcoreapp3.1\BT01.genruntimeconfig.cache
+D:\Study\6. Studying\ThuatToan\Doan\BT01\BT01\obj\Debug\netcoreapp3.1\BT01.sourcelink.json
